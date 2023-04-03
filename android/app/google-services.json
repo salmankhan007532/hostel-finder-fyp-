@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502113001945",
+    "project_id": "final-year-project-e6a70",
+    "storage_bucket": "final-year-project-e6a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502113001945:android:bf1b6f830df6b81baa39c8",
+        "android_client_info": {
+          "package_name": "com.bucks.hostel_finder_noor_rehman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502113001945-3cb8su4of7v5n16ukh974qh06h89klo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBinStONznQhUBOUxWxHQSVgkM7qc91s0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502113001945-3cb8su4of7v5n16ukh974qh06h89klo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
